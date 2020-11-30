@@ -1,7 +1,6 @@
 # DiffEqPDEBase.jl
 
-[![Build Status](https://travis-ci.org/JuliaDiffEq/DiffEqPDEBase.jl.svg?branch=master)](https://travis-ci.org/JuliaDiffEq/DiffEqPDEBase.jl)
-[![Build status](https://ci.appveyor.com/api/projects/status/sv9xav0c5yn6onkk?svg=true)](https://ci.appveyor.com/project/ChrisRackauckas/diffeqpdebase-jl)
+[![Build Status](https://github.com/SciML/DiffEqPDEBase.jl/workflows/CI/badge.svg)](https://github.com/SciML/DiffEqPDEBase.jl/actions?query=workflow%3ACI)
 [![Coverage Status](https://coveralls.io/repos/JuliaDiffEq/DiffEqPDEBase.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/JuliaDiffEq/DiffEqPDEBase.jl?branch=master)
 [![codecov.io](http://codecov.io/github/JuliaDiffEq/DiffEqPDEBase.jl/coverage.svg?branch=master)](http://codecov.io/github/JuliaDiffEq/DiffEqPDEBase.jl?branch=master)
 
